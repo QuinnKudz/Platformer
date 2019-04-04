@@ -1,12 +1,13 @@
 # Platformer
 Android platformer game made within Android studio 
-Made as part of teh course "Game Development for Android" at Uppsala University in Spring of 2018. This project serves as a basic
-platformer, which utalizes a levelManager that takes a matrix filled with values tied to rescources and generates the playing
+Made as part of the course "Game Development for Android" at Uppsala University in Spring of 2018. This project serves as a basic
+platformer, which utilizes a levelManager that takes a matrix filled with values tied to resources and generates the playing
 field. It also features support for 3 types of controls at once, with another method possible with small alteration. 
 The 3 controls implemented currently are the virtual joystick, accelerometer and physical controller. A game pad is useable if mainactivity.xml is altered by uncommenting the one line that is a comment and then commenting out the line below it. 
 You will also need to uncomment the line in the MainActivity class. 
 
-Posted you will find all of the core files needed to build said project.
+Posted you will find all of the core files needed to build said project. Inside the main folder you will find the resources used and 
+the java file, containing all class functions. 
 
 Assets used:
 With exception of a few classes and functions, the code was written alongside Ulf Benjaminsson’s videos for the course 
