@@ -6,9 +6,12 @@ field. It also features support for 3 types of controls at once, with another me
 The 3 controls implemented currently are the virtual joystick, accelerometer and physical controller. A game pad is useable if mainactivity.xml is altered by uncommenting the one line that is a comment and then commenting out the line below it. 
 You will also need to uncomment the line in the MainActivity class. 
 
+Posted you will find all of the core files needed to build said project.
+
 Assets used:
 With exception of a few classes and functions, the code was written alongside Ulf Benjaminsson’s videos for the course 
 “Game Development for Android”.
+
  The class DebugTextRenderer was written by Ulf Benjaminsson, from https://pastebin.com/s6Cr6L31
 
  The class Random was written by Ulf Benjaminsson and acquired from https://pastebin.com/7m2r5PjV
